@@ -12,6 +12,9 @@ h1{
     font-weight: 900;
     line-height: 30px;
 }
+p{
+    font-size: 20px;
+}
 .color-1{
     color: #333333;
 }
@@ -29,12 +32,11 @@ h1{
 
 .btn{
     text-decoration: none;
-    padding: 10px 18px;
+    padding: 15px 30px;
     background-color: #FF5959;
     border-radius: 5px;
     color:#FFFFFF;
     font-size: 18px;
-    padding: 10px;
 }
 p{
     padding: 10px 0;
@@ -67,19 +69,39 @@ p{
 }
 .box1{
     background-color: #edf5f6;
+    font-size: 20px;
     padding: 20px;
     margin: 10px;
     border-radius: 20px;
 }
 .box2{
     background-color: #ffeeee;
+    font-size: 20px;
     padding: 20px;
     margin: 10px;
     border-radius: 20px;
 }
 .box3{
     background-color: #fff4d6;
+    font-size: 20px;
     padding: 20px;
     margin: 10px;
     border-radius: 20px;
+}
+.section-3{
+    display: flex;
+    padding: 100px 0;
+}
+.section-3 .coding-img{
+    width: 40%;
+}
+.section-3 img{
+    width: 70%;
+    padding-left: 100px;
+}
+.section-3 .devlop{
+    width: 60%;
+    font-size: 25px;
+    padding-right: 90px;
+    padding-top: 30px;
 }
