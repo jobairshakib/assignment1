@@ -5,6 +5,7 @@ body{
 }
 section{
     padding: 20px;
+    margin: 20px;
 }
 h1{
     font-size: 50px;
@@ -52,6 +53,33 @@ p{
 }
 .mymission{
     text-align: center;
-    font-size: 35px;
+    font-size: 40px;
     font-weight: bolder;
+}
+.section-2{
+    padding: 0 100px;
+}
+.threebox{
+    display: flex;
+}
+.threebox img{
+    width: 50%;
+}
+.box1{
+    background-color: #edf5f6;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.box2{
+    background-color: #ffeeee;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.box3{
+    background-color: #fff4d6;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
 }
