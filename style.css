@@ -1,1 +1,57 @@
-!
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 0;
+}
+section{
+    padding: 20px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 30px;
+}
+.color-1{
+    color: #333333;
+}
+.color-2{
+    color: #FFAD5A;
+}
+.color-3{
+    color: #13103A;
+}
+.border{
+    border-left: 3px solid #FF5959;
+    padding-left: 10px;
+}
+
+
+.btn{
+    text-decoration: none;
+    padding: 10px 18px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    color:#FFFFFF;
+    font-size: 18px;
+    padding: 10px;
+}
+p{
+    padding: 10px 0;
+}
+.section-1{
+    display: flex;
+}
+.width{
+    width: 50%;
+}
+.width img{
+    width: 70%;
+}
+.mission{
+    padding: 100px;
+}
+.mymission{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bolder;
+}
