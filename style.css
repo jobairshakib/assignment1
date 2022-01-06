@@ -14,7 +14,7 @@ h1{
     line-height: 30px;
 }
 p{
-    font-size: 20px;
+    font-size: 15px;
 }
 .color-1{
     color: #333333;
@@ -53,7 +53,7 @@ p{
     width: 70%;
 }
 .mission{
-    padding: 150px;
+    padding: 100px;
 }
 .mymission{
     text-align: center;
@@ -103,8 +103,6 @@ p{
 }
 .section-3 .devlop{
     width: 60%;
-    padding-right: 90px;
-    padding-top: 30px;
 }
 .section-4{
     display: flex;
@@ -113,7 +111,7 @@ p{
 }
 .section-4 .globalcommunity{
     width: 60%;
-    padding-top: 80px;
+    padding-top: 0px;
     margin-right: 20px;
 }
 .section-4 .project{
@@ -133,6 +131,10 @@ p{
 #footer span{
     color: #FF5959;
 }
+#footer h1{
+    font-size: 40px;
+}
 #footer p{
+    font-size: 15px;
     font-family: 'Poppins', sans-serif;
 }
